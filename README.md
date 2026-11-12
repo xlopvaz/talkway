@@ -1,5 +1,7 @@
 # talkway. — Think, understand and speak English
 
+🌐 **Web:** [xlopvaz.github.io/talkway](https://xlopvaz.github.io/talkway/)
+
 **Talkway** is an interactive platform to learn real-life English: speaking, listening, vocabulary, grammar in context, pronunciation, and a specialised **Cabin Crew Academy** for future cabin crew (TCP), pilots and aviation professionals.
 
 It is a 100% static site (HTML + CSS + vanilla JavaScript ES modules). No build step and no server: it runs as-is on **GitHub Pages**.
